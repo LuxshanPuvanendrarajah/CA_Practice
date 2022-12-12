@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot renders 1`] = `
+Array [
+  <h1>
+    Learn React
+  </h1>,
+  <h1>
+    My Mock Header Component
+  </h1>,
+  <h1>
+    My Mock Home Component
+  </h1>,
+]
+`;

@@ -1,0 +1,38 @@
+[
+    {
+        "category": "Web Development",
+        "price": 1234,
+        "advanced": false,
+        "name": "Web Development Fundamentals - JavaScript"
+    },
+    {
+        "category": "Web Development",
+        "price": 1234,
+        "advanced": true,
+        "name": "Developing Applications using ReactJS"
+    },
+    {
+        "category": "Web Development",
+        "price": 1234,
+        "advanced": false,
+        "name": "Web Development Fundamentals - HTML/CSS"
+    },
+    {
+        "category": "Project Management",
+        "price": 1234,
+        "advanced": false,
+        "name": "APM Project Fundamentals Qualification"
+    },
+    {
+        "category": "Project Management",
+        "price": 1234,
+        "advanced": true,
+        "name": "APM Project Management Qualification"
+    },
+    {
+        "category": "Project Management",
+        "price": 1234,
+        "advanced": false,
+        "name": "APM Project Fundamentals (eLearning) Qualification"
+    }
+]

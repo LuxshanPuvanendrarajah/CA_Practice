@@ -1,0 +1,16 @@
+{
+    "names": [
+        {
+            "id": 1,
+            "name": "Test Name One"
+        },
+        {
+            "id": 2,
+            "name": "Test Name Two"
+        },
+        {
+            "id": 3,
+            "name": "Test Name Three"
+        }
+    ]
+}
